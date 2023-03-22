@@ -1,5 +1,5 @@
 PKG_NAME := pypi-comm
-URL = https://files.pythonhosted.org/packages/60/5b/0e55c73beb88043811601050c87e871bd1f6cab78c869dc077fa5d0a5b5b/comm-0.1.2.tar.gz
+URL = https://files.pythonhosted.org/packages/d6/1a/9937a10f8fd6d9f0f72fa0ab520cec7e50c534b215f8fd2d28e0f0a7f9a7/comm-0.1.3.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common
