@@ -5,7 +5,7 @@
 #
 Name     : pypi-comm
 Version  : 0.1.4
-Release  : 4
+Release  : 5
 URL      : https://files.pythonhosted.org/packages/6c/c1/839b14561c958d42a875851fcdf4c15604ba8fd174d22f9003eb97d0611e/comm-0.1.4.tar.gz
 Source0  : https://files.pythonhosted.org/packages/6c/c1/839b14561c958d42a875851fcdf4c15604ba8fd174d22f9003eb97d0611e/comm-0.1.4.tar.gz
 Summary  : Jupyter Python Comm implementation, for usage in ipykernel, xeus-python etc.
